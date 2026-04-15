@@ -99,8 +99,15 @@ Backend Development • REST APIs • NLP • AI Integration • RBAC Systems �
 ✔ OCI Foundations Associate (2025)  
 ✔ Agentic System Design – Educative  
 ✔ Generative AI – DeepLearning.AI  
+---
+
+## 🌍 Global Certifications  
+
+✔ Microsoft Azure AI Fundamentals (AI-900)  
+✔ Human Computer Interaction (HCI) – 2026  
 
 ---
+
 
 ## 📊 GitHub Analytics  
 
