@@ -103,8 +103,7 @@ Backend Development • REST APIs • NLP • AI Integration • RBAC Systems �
 
 ## 🌍 Global Certifications  
 
-✔ Microsoft Azure AI Fundamentals (AI-900)  
-✔ Human Computer Interaction (HCI) – 2026  
+✔ Microsoft Azure AI Fundamentals (AI-900)    
 
 ---
 
