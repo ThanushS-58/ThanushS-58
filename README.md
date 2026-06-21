@@ -103,6 +103,7 @@ Backend Development • REST APIs • NLP • AI Integration • RBAC Systems �
 
 ## 🌍 Global Certifications  
 
+✔ Microsoft Azure Fundamentals (AZ-900)   
 ✔ Microsoft Azure AI Fundamentals (AI-900)   
 ✔ Microsoft Azure AI Engineer Associate (AI-102)
 
