@@ -1,46 +1,47 @@
-
 <h1 align="center">👋 Hi, I'm Thanush S</h1>
 
 <h3 align="center">
-🚀 AI Engineer | Data Engineer | Full-Stack Developer | Microsoft Certified
+🚀 AI Engineer • Data Engineer • Full-Stack Developer • Microsoft Certified
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Microsoft+Certified+AI+Engineer;Microsoft+Certified+Data+Engineer;Python+%7C+Azure+%7C+Microsoft+Fabric;AI+%7C+Machine+Learning+%7C+NLP+%7C+LLMs;Building+Intelligent+Solutions+for+Real+World+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Microsoft+Certified+AI+Engineer;Microsoft+Certified+Data+Engineer;Python+%7C+Azure+%7C+Microsoft+Fabric;AI+%7C+Machine+Learning+%7C+NLP;Building+Intelligent+Solutions+for+Real+World+Problems" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ThanushS-58&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ThanushS-58&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-🎓 B.Tech Information Technology Student at **M.Kumarasamy College of Engineering (2023–2027)**
+🎓 B.Tech Information Technology Student at **M.Kumarasamy College of Engineering** (2023–2027)
 
-☁️ Microsoft Certified in **Azure AI, Azure Fundamentals, and Microsoft Fabric**
+☁️ Microsoft Certified in **Azure AI**, **Azure Fundamentals**, and **Microsoft Fabric**
 
-🤖 Passionate about **Artificial Intelligence, Data Engineering, Machine Learning, NLP, LLMs, and Intelligent Automation**
+🤖 Passionate about **Artificial Intelligence, Data Engineering, Machine Learning, NLP, LLMs, Cloud Computing, and Intelligent Automation**
 
-💻 Strong foundation in **Python, Java, SQL, Backend Development, and Cloud Technologies**
+💻 Experienced in building AI-powered applications, backend systems, and data-driven solutions using modern technologies.
 
-📄 IEEE Conference Presenter (ICEAMST 2025)
+📄 IEEE Conference Presenter – **ICEAMST 2025**
 
-🌱 Continuously learning modern AI technologies and building real-world intelligent applications.
-
----
-
-# 🏅 Microsoft Certifications
-
-- ✅ Microsoft Certified: Azure Fundamentals (**AZ-900**)
-- ✅ Microsoft Certified: Azure AI Fundamentals (**AI-900**)
-- ✅ Microsoft Certified: Azure AI Engineer Associate (**AI-102**)
-- ✅ Microsoft Certified: Fabric Data Engineer Associate (**DP-700**)
+🏆 Top 10 Unstoppable Ambassador – **India (2026)**
 
 ---
 
-# 🌍 Other Certifications
+## 🏅 Microsoft Certifications
+
+| Certification | Key Skills |
+|---------------|------------|
+| ✅ **Azure Fundamentals (AZ-900)** | Azure Cloud, Virtual Machines, Networking, Storage, Security, Identity, Governance, Cost Management |
+| ✅ **Azure AI Fundamentals (AI-900)** | Artificial Intelligence, Machine Learning, Computer Vision, NLP, Responsible AI, Generative AI |
+| ✅ **Azure AI Engineer Associate (AI-102)** | Azure AI Services, Azure OpenAI, Prompt Engineering, LLMs, AI Search, Document Intelligence, Speech Services, Vision AI, AI Solution Development |
+| ✅ **Microsoft Fabric Data Engineer Associate (DP-700)** | Microsoft Fabric, Lakehouse, Data Warehouse, Data Pipelines, Spark, Data Engineering, ETL, Data Integration, Analytics |
+
+---
+
+## 🌍 Other Certifications
 
 - Oracle Cloud Infrastructure Foundations Associate
 - Oracle Cloud Infrastructure Generative AI Professional
@@ -49,170 +50,138 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,flask,laravel,mysql,sqlite,firebase,git,github,vscode,azure" />
+<img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,flask,laravel,mysql,sqlite,firebase,git,github,azure,vscode" />
 </p>
 
-### Programming Languages
-- Python
-- Java
-- SQL
-- PHP
-- JavaScript
+### 👨‍💻 Programming Languages
 
-### AI & Data
+`Python` • `Java` • `SQL` • `PHP` • `JavaScript`
+
+### 🤖 AI & Machine Learning
+
 - Machine Learning
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 - Prompt Engineering
+- Azure AI Services
+- Azure OpenAI
 - Gemini API
-- Microsoft Fabric
-- Azure AI
+- Computer Vision
+- AI Search
+- Document Intelligence
 
-### Backend Development
+### 📊 Data Engineering
+
+- Microsoft Fabric
+- Data Pipelines
+- ETL
+- Data Warehousing
+- Lakehouse
+- Apache Spark
+- Data Analytics
+- Data Integration
+- Business Intelligence
+
+### ⚙️ Backend Development
+
 - Flask
 - Laravel
 - REST APIs
 - Authentication
-- RBAC
+- Role-Based Access Control (RBAC)
 
-### Databases
+### 🗄️ Databases
+
 - MySQL
 - SQLite
 - Firebase
 
-### Tools & Platforms
+### ☁️ Cloud & Tools
+
+- Microsoft Azure
 - Git
 - GitHub
 - VS Code
-- Microsoft Azure
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌿 MediPlant AI
+### 🌿 MediPlant AI
 
-AI-powered medicinal plant recognition platform that identifies medicinal plants from images and retrieves traditional medicinal knowledge.
+An AI-powered medicinal plant recognition platform that identifies medicinal plants from images and retrieves traditional medicinal knowledge.
 
 **Highlights**
-- 🌱 Image-based medicinal plant recognition
-- 🤖 AI-powered knowledge retrieval
+
+- 🌱 Image-based Plant Recognition
+- 🤖 AI-powered Knowledge Retrieval
 - 📄 Presented at IEEE ICEAMST 2025
 
 **Tech Stack**
 
-Python • Flask • Gemini API • SQLite • HTML • CSS
+`Python` • `Flask` • `Gemini API` • `SQLite`
 
 ---
 
-## 🤖 Smart Hire
+### 🤖 Smart Hire
 
 An AI-powered recruitment platform that automates resume screening and candidate-job matching.
 
 **Highlights**
-- 📄 Resume Parsing using spaCy
-- 🎯 Candidate Matching
+
+- 📄 Resume Parsing using NLP
+- 🎯 AI Candidate Matching
 - 📊 Recruiter Analytics Dashboard
 
 **Tech Stack**
 
-Python • spaCy • Laravel • PHP • MySQL • Chart.js
+`Python` • `spaCy` • `Laravel` • `MySQL` • `Chart.js`
 
 ---
 
-## 📈 SkillScope AI
+### 📈 SkillScope AI
 
-An AI-powered platform that analyzes IT job postings to identify skill trends, salary insights, and workforce demand using NLP.
+An AI-powered platform that analyzes IT job postings to identify skill trends, salary insights, and workforce demand.
 
 **Highlights**
-- 📊 Skill Demand Analysis
+
+- 📊 IT Skill Demand Analysis
 - 📈 Interactive Dashboards
-- 🤖 AI & Machine Learning Insights
+- 🤖 Machine Learning & NLP Insights
 
 **Tech Stack**
 
-Python • NLP • Streamlit • TF-IDF • Data Analytics • Machine Learning
+`Python` • `Streamlit` • `Machine Learning` • `NLP` • `Data Analytics`
 
 ---
 
 ## 💼 Hands-On Experience
 
 ### 💻 Full Stack Developer
-**Technology Innovation Hub (TIH), MKCE**
 
+**Technology Innovation Hub (TIH), MKCE**  
 **Jun 2025 – Apr 2026**
 
 - Designed and implemented **Role-Based Access Control (RBAC)** across 5+ departments.
 - Developed secure middleware for Students, Mentors, Advisors, and HODs.
-- Built dashboards for discipline statistics, occurrence tracking, and semester-wise reporting.
-- Developed Excel and PDF export utilities for administrative workflows.
-- Improved backend architecture and database management.
+- Built dashboards for discipline statistics and semester-wise reporting.
+- Created Excel and PDF export modules for administrative workflows.
+- Improved backend architecture and optimized database performance.
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-🏅 Top 10 Unstoppable Ambassadors in India (2026)
-
-📄 IEEE Conference Presenter — ICEAMST 2025
-
-🚀 Participant — AI Conclave 1.0 National Hackathon
+- 🏅 Top 10 Unstoppable Ambassador – India (2026)
+- 📄 IEEE Conference Presenter – ICEAMST 2025
+- 🚀 AI Conclave 1.0 National Hackathon Participant
 
 ---
 
-# 🧠 Technical Skills
-
-- Artificial Intelligence
-- Machine Learning
-- Data Engineering
-- Natural Language Processing
-- Backend Development
-- REST API Development
-- Database Design
-- Role-Based Access Control (RBAC)
-- Data Analytics
-- Business Intelligence
-
----
-
-# 🤝 Soft Skills
-
-- Communication
-- Stakeholder Management
-- Teamwork
-- Technical Support
-- Time Management
-- Problem Solving
-- Leadership
-- Adaptability
-- Critical Thinking
-
----
-
-# 🌐 Languages
-
-- 🇬🇧 English
-- 🇮🇳 Tamil
-
----
-
-# 📚 Currently Learning
-
-- Microsoft Fabric
-- Azure AI Foundry
-- Azure OpenAI
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Agentic AI Systems
-- Data Pipelines
-- AI Agents
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -222,29 +191,15 @@ Python • NLP • Streamlit • TF-IDF • Data Analytics • Machine Learning
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanushS-58&theme=tokyo-night&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanushS-58&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ThanushS-58&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -264,13 +219,10 @@ Python • NLP • Streamlit • TF-IDF • Data Analytics • Machine Learning
 
 ---
 
-# 💡 Quote
-
-> *"Transforming ideas into intelligent solutions through AI, data, and cloud technologies."*
-
----
+<h3 align="center">
+💡 Building AI-powered applications that transform data into intelligent decisions.
+</h3>
 
 <p align="center">
-⭐ If you like my projects, consider giving them a Star!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
-
