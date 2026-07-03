@@ -177,7 +177,7 @@ An AI-powered platform that analyzes IT job postings to identify skill trends, s
 
 - 🏅 Top 10 Unstoppable Ambassador – India (2026)
 - 📄 IEEE Conference Presenter – ICEAMST 2025
-- 🚀 AI Conclave 1.0 National Hackathon Participant
+- 🚀 AI Conclave 1.0 National Hackathon Participant  
 
 ---
 
