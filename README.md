@@ -187,7 +187,7 @@ An AI-powered platform that analyzes IT job postings to identify skill trends, s
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThanushS-58&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ThanushS-58&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ThanushS-58&theme=tokyonight&hide_border=true"/>
 
 </p>
 
